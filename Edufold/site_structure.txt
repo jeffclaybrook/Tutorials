@@ -1,0 +1,107 @@
+// COMPONENTS
+- Pink cards with Header and Paragraph
+- Animated image overlay
+- Rounded image card with Header and Paragraph
+- Testimonial cards
+- Bottom hero image with header and button
+- Vertical side list
+
+// HOME
+- Hero
+- Title
+- Description
+- Button -> links to about.html
+- Replace "Courses we offer" section with "expertise"-like section (UX Best Practices, Product Management, Technical Writing, UI Design)
+
+// ABOUT
+- Bio
+- Certificates
+- Skillset Chips?
+
+// PROJECTS
+- Custom Cards
+- Simplekits HTML
+- UT Admin
+- ZD Austin
+- TAMU Calender Widgets
+- Style Guide
+
+// CONTACT
+- Address
+- Phone
+- Email
+- Form
+
+// SKILLSET
+- HTML
+- CSS
+- JavaScript (limited proficiency)
+- Wireframing
+- Prototyping
+- QA
+- Technical Writing
+
+// SOFTWARE/PLATFORMS
+- G Suite
+- Chrome DevTools
+- Jira
+- Trello
+- GitHub
+- Zendesk
+- InVision
+- Keynote
+- Visual Studio Code
+- npm
+- Microsoft Office
+- Camtasia
+- Zoom Enterprise
+- Netlify
+- Progressive Web Applications (PWAs)
+- Slack
+- BBEdit
+
+// FRAMEWORKS
+- Material Design
+- Bootstrap
+- Flexbox Grid
+
+// TL;DR
+- Experienced Product Manager with a demonstrated history of working in the computer software industry. Skilled in enterprise software applications, technical writing, front-end web development, and policy analysis. Strong product management professional with a Bachelor of Arts (B.A.) focused in Political Science and Government and a minor in Business Administration from Texas A&M University.
+
+// EDUCATION
+- Texas A&M University
+- Bachelor of Arts (B.A.), Political Science and Government
+- Minor in Business Administration
+
+// ARENA EDGE
+- Arena Edge (formerly PVTV, Inc.) is an easy-to-use video and content platform that allows you to create, deliver, and manage multimedia-based courses, communications, presentations, and live webinars (coming soon) without impacting your current IT infrastructure. Our platform combines high quality video with synchronized and embedded content, such as slides, resources, auxiliary media, or anything that can be linked from an online source, allowing users to explore all the resources and information without ever leaving your program.
+- As product manager, I help facilitate the implementation of new platform features, create responsive UI prototypes, recommend best UX practices, and document every front-end component of an agile cloud-based platform.
+
+// VWS?
+
+// GOVWHIZ
+- Start up technology company that streamlines interactions between citizens and government services
+- Created database of 9000+ elected officals from across the state of Texas
+
+// HOUSING SCOUT
+- asfasdf
+
+// TAMUHSC
+- Coordinate weekly seminars for guest speakers to present research to the Department of Medical Physiology in the Texas A&M University System Health Science Center. Manage department's database, invoices, inventory, itineraries, and phone records. Communicate with associates from other campuses, reserve hotel rooms and rental cars, and place weekly catering orders to local restaurants. Frequently use Filemaker Pro and Microsoft Office.
+
+// TRELLISE
+- Selected to be a student representative for a startup company on Texas A&M University campus. Coordinate with various organizations to beta test product and give feedback for improvements to meet the needs of students and student organizations. Internship has given me experience in sales, marketing, and product development.
+- Beta tested product & helped implement with varous student organizations
+
+// SCHWERTNER
+- Handled casework for the constituents of Texas State Senator Charles Schwertner in Senate District 5, which is a ten-county region of Central and East Texas that includes Brazos, Freestone, Grimes, Leon, Limestone, Madison, Milam, Robertson, Walker, and Williamson Counties. Worked under the instruction of the District Representative and communicated with various state agencies on behalf of Senator Schwertner's constituents in addition to relaying public opinion on local and statewide legislation within the Texas Legislature.
+
+// CAMP OZARK
+- Mentored and discipled 30+ middle school boys for eight weeks at a Christian Sports camp. Certified as a shooting sports instructor, which included teaching kids gun safety, gun maintenance, and proper shooting technique as well as monitoring the shooting range at all times. Coached high schoolers and led the camp's oldest group of boys to a come behind victory in the camp's notorious tribal competition.
+
+// SGA
+- Chief of staff
+
+// MISC
+- I'm a kinesthetic learner, which means I learn by doing things
+- The best advice I've ever gotten: 1. Learn everything, 2. Figure it out
